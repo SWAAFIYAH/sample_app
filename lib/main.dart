@@ -58,7 +58,7 @@ class _HomeState extends State<Home> {
             Text('Coding level',
               style: TextStyle(
                 color: Colors.red,
-                letterSpacing: 2.0,
+                letterSpacing: 1.0,
               ),
             ),
             Text('$codingLevel',
